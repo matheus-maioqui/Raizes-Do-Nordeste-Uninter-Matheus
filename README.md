@@ -2,7 +2,7 @@
 
 Interface web responsiva para uma rede de lanchonetes de comida nordestina, criada como atividade da disciplina de Projeto Multidisciplinar (trilha Front-End). O trabalho parte do estudo de caso "Rede Raízes do Nordeste – Tecnologia, Tradição e Escala".
 
-🔗 Demonstração online:
+🔗 Demonstração online: https://matheus-maioqui.github.io/Raizes-Do-Nordeste-Uninter-Matheus/
 
 📌 Sobre o projeto
 
